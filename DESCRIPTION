@@ -1,0 +1,6 @@
+Package: lshr
+Title: Locality sensitive hashing for R
+Description: 
+Version: 0.1
+Author: Peter Schulam <pschulam@gmail.com>
+Maintainer: Peter Schulam <pschulam@gmail.com>

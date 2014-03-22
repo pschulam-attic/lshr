@@ -1,0 +1,8 @@
+S3method(hash,matrix)
+S3method(hash,numeric)
+S3method(print,lsh)
+export(cosdist)
+export(hamdist)
+export(hash)
+export(lsh)
+export(lshdist)
