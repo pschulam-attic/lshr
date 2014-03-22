@@ -5,7 +5,7 @@ Locality sensitive hashing in R.
 
 Here's a simple example of hashing some random feature vectors.
 
-```r
+```S
 library(lshr)
 
 X <- matrix(rnorm(40 * 1000), 40, 1000)  # 1000 40-dimensional feature vectors
